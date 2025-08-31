@@ -1,2 +1,2 @@
 # SUSTAINABEL-AGRICULTURE
-Smart Farming with AI: Disease Detection and Precision Agriculture
+AI-powered plant health insights from biosensor data — detect stress early and grow smarter
